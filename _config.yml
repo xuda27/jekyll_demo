@@ -10,7 +10,7 @@ safe: true
 timezone: Asia/Shanghai
 auto: false 
 
-paginate: 8
+paginate: 5
 paginate_path: "page:num"
 
 kramdown:
@@ -21,10 +21,10 @@ kramdown:
   use_coderay: false
 
 JB :
-  IMAGE_PATH : http://xuda27.github.io/images
+  IMAGE_PATH : 
 
 # presonal config
-domain: http://xuda27.github.io
+domain: 
 title: Eden-日志
 description: Code that kills me makes me feel alive
 author: Eden

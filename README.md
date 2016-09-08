@@ -1,6 +1,6 @@
 #### 预览
 
-* Jekyll版本： [EZLippi.github.io](EZLippi.github.io)
+* Jekyll版本： [xuda27.github.io](http://xuda27.github.io)
 
 
 ### 本项目使用了
